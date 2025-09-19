@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import StartGameScreen from './screens/StartGameScreen';
 
 export default function App() {
-  return <StartGameScreen></StartGameScreen>
+  return <StartGameScreen ></StartGameScreen>
 }
 
 const styles = StyleSheet.create({
